@@ -1,16 +1,3 @@
-# Author:      	Christopher Roberts 
-# E-mail:      	cmr663@psu.edu
-# Course:      	CMPSC 312 
-# Assignment:   MIPS Triangle Tester Program
-# Due date:    	11/19/2020 
-# File:        	triangle tester.asm 
-# Purpose:     	This program prompts a user to enter 3 positive integers 
-#              	and reports whether or not they form a triangle. 
-# Simulator:    MARS 4.5 
-# Operating
-# system:      	MS Windows 10 
-# References:   Class demo programs, https://www.youtube.com/watch?v=0aexcR9CNcE&list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A&index=26,
-#		http://people.cs.pitt.edu/~xujie/cs447/Mips/cond.html, 
 		.data
 choice:		.word 0 	# declare variable of type .word and initialize it to 0	
 
